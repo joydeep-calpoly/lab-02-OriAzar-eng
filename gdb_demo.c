@@ -1,3 +1,9 @@
+
+
+
+
+
+
 #include <stdio.h>
 
 
@@ -20,4 +26,5 @@ int main() {
         j+=5;
         fun(j,k);
 	return 0;
+
 }
